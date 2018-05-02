@@ -1,7 +1,7 @@
-!Machine Learning using Python
+#Machine Learning using Python
 Small machine learning examples using Python 3.6.
 
-!Prerequisites
+#Prerequisites
 * Python 3.6
 * Scikit
 * Pydotplus
